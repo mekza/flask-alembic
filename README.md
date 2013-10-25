@@ -15,7 +15,7 @@ It is intended that these issues will be resolved as development continues! Ther
 
 Flask-Alembic isn't on pypi yet, so you'll need to install it from the repo:
 
-    $ pip install -e git+https://github.com/tobiasandtobias/flask-alembic.git
+    $ pip install -e git+https://github.com/tobiasandtobias/flask-alembic.git#egg=flask-alembic
 
 This should also install the required dependencies. If you want the usage strings for the management command to be correct, you'll need to do:
 
